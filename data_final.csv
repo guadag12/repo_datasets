@@ -1,0 +1,276 @@
+"","REGION","DISTRITO","CASOS","MUERTOS","POBLACION","TIPO_CAMA","CANTIDAD","MEDICOS_CANTIDAD"
+"1","PAMPEANA","Buenos Aires",733,44,17196396,"Generales","31686",46223
+"2","PAMPEANA","Buenos Aires",733,44,17196396,"Pediátricas","2428",46223
+"3","PAMPEANA","Buenos Aires",733,44,17196396,"Maternidad","1973",46223
+"4","PAMPEANA","Buenos Aires",733,44,17196396,"C.Especiales","1118",46223
+"5","PAMPEANA","Buenos Aires",733,44,17196396,"UTI adultos","2862",46223
+"6","PAMPEANA","Buenos Aires",733,44,17196396,"UTI pediátricas","572",46223
+"7","PAMPEANA","Buenos Aires",733,44,17196396,"Neonatología","2180",46223
+"8","PAMPEANA","Buenos Aires",733,44,17196396,"Htal día","240",46223
+"9","PAMPEANA","Buenos Aires",733,44,17196396,"Int. Prolong.","52599",46223
+"10","PAMPEANA","Buenos Aires",733,44,17196396,"No discriminadas","1010",46223
+"11","PAMPEANA","Buenos Aires",733,44,17196396,"Total","96668",46223
+"12","PAMPEANA","CABA",661,33,3068043,"Generales","13062",48447
+"13","PAMPEANA","CABA",661,33,3068043,"Pediátricas","1646",48447
+"14","PAMPEANA","CABA",661,33,3068043,"Maternidad","851",48447
+"15","PAMPEANA","CABA",661,33,3068043,"C.Especiales","1380",48447
+"16","PAMPEANA","CABA",661,33,3068043,"UTI adultos","1177",48447
+"17","PAMPEANA","CABA",661,33,3068043,"UTI pediátricas","460",48447
+"18","PAMPEANA","CABA",661,33,3068043,"Neonatología","1000",48447
+"19","PAMPEANA","CABA",661,33,3068043,"Htal día","538",48447
+"20","PAMPEANA","CABA",661,33,3068043,"Int. Prolong.","2078",48447
+"21","PAMPEANA","CABA",661,33,3068043,"No discriminadas","76",48447
+"22","PAMPEANA","CABA",661,33,3068043,"Total","22268",48447
+"23","NOA","Catamarca",0,0,408152,"Generales","911",1042
+"24","NOA","Catamarca",0,0,408152,"Pediátricas","176",1042
+"25","NOA","Catamarca",0,0,408152,"Maternidad","249",1042
+"26","NOA","Catamarca",0,0,408152,"C.Especiales","68",1042
+"27","NOA","Catamarca",0,0,408152,"UTI adultos","107",1042
+"28","NOA","Catamarca",0,0,408152,"UTI pediátricas","67",1042
+"29","NOA","Catamarca",0,0,408152,"Neonatología","185",1042
+"30","NOA","Catamarca",0,0,408152,"Htal día","25",1042
+"31","NOA","Catamarca",0,0,408152,"Int. Prolong.","297",1042
+"32","NOA","Catamarca",0,0,408152,"No discriminadas","83",1042
+"33","NOA","Catamarca",0,0,408152,"Total","2168",1042
+"34","NEA","Chaco",186,9,1180477,"Generales","2251",2656
+"35","NEA","Chaco",186,9,1180477,"Pediátricas","252",2656
+"36","NEA","Chaco",186,9,1180477,"Maternidad","296",2656
+"37","NEA","Chaco",186,9,1180477,"C.Especiales","84",2656
+"38","NEA","Chaco",186,9,1180477,"UTI adultos","292",2656
+"39","NEA","Chaco",186,9,1180477,"UTI pediátricas","54",2656
+"40","NEA","Chaco",186,9,1180477,"Neonatología","195",2656
+"41","NEA","Chaco",186,9,1180477,"Htal día","4",2656
+"42","NEA","Chaco",186,9,1180477,"Int. Prolong.","991",2656
+"43","NEA","Chaco",186,9,1180477,"No discriminadas","11",2656
+"44","NEA","Chaco",186,9,1180477,"Total","4430",2656
+"45","PATAGONIA","Chubut",1,0,598380,"Generales","1431",1794
+"46","PATAGONIA","Chubut",1,0,598380,"Pediátricas","175",1794
+"47","PATAGONIA","Chubut",1,0,598380,"Maternidad","194",1794
+"48","PATAGONIA","Chubut",1,0,598380,"C.Especiales","227",1794
+"49","PATAGONIA","Chubut",1,0,598380,"UTI adultos","81",1794
+"50","PATAGONIA","Chubut",1,0,598380,"UTI pediátricas","10",1794
+"51","PATAGONIA","Chubut",1,0,598380,"Neonatología","74",1794
+"52","PATAGONIA","Chubut",1,0,598380,"Htal día","41",1794
+"53","PATAGONIA","Chubut",1,0,598380,"Int. Prolong.","139",1794
+"54","PATAGONIA","Chubut",1,0,598380,"No discriminadas","29",1794
+"55","PATAGONIA","Chubut",1,0,598380,"Total","2401",1794
+"56","PAMPEANA","Córdoba",232,6,3683937,"Generales","8486",16283
+"57","PAMPEANA","Córdoba",232,6,3683937,"Pediátricas","318",16283
+"58","PAMPEANA","Córdoba",232,6,3683937,"Maternidad","296",16283
+"59","PAMPEANA","Córdoba",232,6,3683937,"C.Especiales","330",16283
+"60","PAMPEANA","Córdoba",232,6,3683937,"UTI adultos","1021",16283
+"61","PAMPEANA","Córdoba",232,6,3683937,"UTI pediátricas","180",16283
+"62","PAMPEANA","Córdoba",232,6,3683937,"Neonatología","402",16283
+"63","PAMPEANA","Córdoba",232,6,3683937,"Htal día","108",16283
+"64","PAMPEANA","Córdoba",232,6,3683937,"Int. Prolong.","11829",16283
+"65","PAMPEANA","Córdoba",232,6,3683937,"No discriminadas","103",16283
+"66","PAMPEANA","Córdoba",232,6,3683937,"Total","23073",16283
+"67","NEA","Corrientes",32,0,1101084,"Generales","2237",3470
+"68","NEA","Corrientes",32,0,1101084,"Pediátricas","451",3470
+"69","NEA","Corrientes",32,0,1101084,"Maternidad","325",3470
+"70","NEA","Corrientes",32,0,1101084,"C.Especiales","44",3470
+"71","NEA","Corrientes",32,0,1101084,"UTI adultos","222",3470
+"72","NEA","Corrientes",32,0,1101084,"UTI pediátricas","42",3470
+"73","NEA","Corrientes",32,0,1101084,"Neonatología","177",3470
+"74","NEA","Corrientes",32,0,1101084,"Htal día","108",3470
+"75","NEA","Corrientes",32,0,1101084,"Int. Prolong.","275",3470
+"76","NEA","Corrientes",32,0,1101084,"No discriminadas","57",3470
+"77","NEA","Corrientes",32,0,1101084,"Total","3938",3470
+"78","PAMPEANA","Entre Rios",20,0,1360443,"Generales","3259",3977
+"79","PAMPEANA","Entre Rios",20,0,1360443,"Pediátricas","356",3977
+"80","PAMPEANA","Entre Rios",20,0,1360443,"Maternidad","263",3977
+"81","PAMPEANA","Entre Rios",20,0,1360443,"C.Especiales","98",3977
+"82","PAMPEANA","Entre Rios",20,0,1360443,"UTI adultos","164",3977
+"83","PAMPEANA","Entre Rios",20,0,1360443,"UTI pediátricas","26",3977
+"84","PAMPEANA","Entre Rios",20,0,1360443,"Neonatología","88",3977
+"85","PAMPEANA","Entre Rios",20,0,1360443,"Htal día","35",3977
+"86","PAMPEANA","Entre Rios",20,0,1360443,"Int. Prolong.","1653",3977
+"87","PAMPEANA","Entre Rios",20,0,1360443,"No discriminadas","135",3977
+"88","PAMPEANA","Entre Rios",20,0,1360443,"Total","6077",3977
+"89","NEA","Formosa",0,0,595129,"Generales","1685",1093
+"90","NEA","Formosa",0,0,595129,"Pediátricas","115",1093
+"91","NEA","Formosa",0,0,595129,"Maternidad","49",1093
+"92","NEA","Formosa",0,0,595129,"C.Especiales","82",1093
+"93","NEA","Formosa",0,0,595129,"UTI adultos","79",1093
+"94","NEA","Formosa",0,0,595129,"UTI pediátricas","10",1093
+"95","NEA","Formosa",0,0,595129,"Neonatología","74",1093
+"96","NEA","Formosa",0,0,595129,"Htal día","18",1093
+"97","NEA","Formosa",0,0,595129,"Int. Prolong.","-",1093
+"98","NEA","Formosa",0,0,595129,"No discriminadas","43",1093
+"99","NEA","Formosa",0,0,595129,"Total","2155",1093
+"100","NOA","Jujuy",5,0,753891,"Generales","1644",1674
+"101","NOA","Jujuy",5,0,753891,"Pediátricas","368",1674
+"102","NOA","Jujuy",5,0,753891,"Maternidad","258",1674
+"103","NOA","Jujuy",5,0,753891,"C.Especiales","33",1674
+"104","NOA","Jujuy",5,0,753891,"UTI adultos","106",1674
+"105","NOA","Jujuy",5,0,753891,"UTI pediátricas","25",1674
+"106","NOA","Jujuy",5,0,753891,"Neonatología","113",1674
+"107","NOA","Jujuy",5,0,753891,"Htal día","120",1674
+"108","NOA","Jujuy",5,0,753891,"Int. Prolong.","233",1674
+"109","NOA","Jujuy",5,0,753891,"No discriminadas","-",1674
+"110","NOA","Jujuy",5,0,753891,"Total","2900",1674
+"111","PAMPEANA","La Pampa",5,0,352378,"Generales","665",1058
+"112","PAMPEANA","La Pampa",5,0,352378,"Pediátricas","78",1058
+"113","PAMPEANA","La Pampa",5,0,352378,"Maternidad","110",1058
+"114","PAMPEANA","La Pampa",5,0,352378,"C.Especiales","14",1058
+"115","PAMPEANA","La Pampa",5,0,352378,"UTI adultos","60",1058
+"116","PAMPEANA","La Pampa",5,0,352378,"UTI pediátricas","8",1058
+"117","PAMPEANA","La Pampa",5,0,352378,"Neonatología","65",1058
+"118","PAMPEANA","La Pampa",5,0,352378,"Htal día","34",1058
+"119","PAMPEANA","La Pampa",5,0,352378,"Int. Prolong.","122",1058
+"120","PAMPEANA","La Pampa",5,0,352378,"No discriminadas","-",1058
+"121","PAMPEANA","La Pampa",5,0,352378,"Total","1156",1058
+"122","CUYO","La Rioja",31,2,383220,"Generales","945",1444
+"123","CUYO","La Rioja",31,2,383220,"Pediátricas","240",1444
+"124","CUYO","La Rioja",31,2,383220,"Maternidad","192",1444
+"125","CUYO","La Rioja",31,2,383220,"C.Especiales","67",1444
+"126","CUYO","La Rioja",31,2,383220,"UTI adultos","100",1444
+"127","CUYO","La Rioja",31,2,383220,"UTI pediátricas","34",1444
+"128","CUYO","La Rioja",31,2,383220,"Neonatología","113",1444
+"129","CUYO","La Rioja",31,2,383220,"Htal día","34",1444
+"130","CUYO","La Rioja",31,2,383220,"Int. Prolong.","149",1444
+"131","CUYO","La Rioja",31,2,383220,"No discriminadas","-",1444
+"132","CUYO","La Rioja",31,2,383220,"Total","1874",1444
+"133","CUYO","Mendoza",63,4,1949293,"Generales","2070",6675
+"134","CUYO","Mendoza",63,4,1949293,"Pediátricas","607",6675
+"135","CUYO","Mendoza",63,4,1949293,"Maternidad","539",6675
+"136","CUYO","Mendoza",63,4,1949293,"C.Especiales","196",6675
+"137","CUYO","Mendoza",63,4,1949293,"UTI adultos","203",6675
+"138","CUYO","Mendoza",63,4,1949293,"UTI pediátricas","35",6675
+"139","CUYO","Mendoza",63,4,1949293,"Neonatología","292",6675
+"140","CUYO","Mendoza",63,4,1949293,"Htal día","250",6675
+"141","CUYO","Mendoza",63,4,1949293,"Int. Prolong.","3006",6675
+"142","CUYO","Mendoza",63,4,1949293,"No discriminadas","-",6675
+"143","CUYO","Mendoza",63,4,1949293,"Total","7198",6675
+"144","NEA","Misiones",4,0,1233177,"Generales","2229",2208
+"145","NEA","Misiones",4,0,1233177,"Pediátricas","280",2208
+"146","NEA","Misiones",4,0,1233177,"Maternidad","247",2208
+"147","NEA","Misiones",4,0,1233177,"C.Especiales","38",2208
+"148","NEA","Misiones",4,0,1233177,"UTI adultos","162",2208
+"149","NEA","Misiones",4,0,1233177,"UTI pediátricas","19",2208
+"150","NEA","Misiones",4,0,1233177,"Neonatología","209",2208
+"151","NEA","Misiones",4,0,1233177,"Htal día","102",2208
+"152","NEA","Misiones",4,0,1233177,"Int. Prolong.","840",2208
+"153","NEA","Misiones",4,0,1233177,"No discriminadas","33",2208
+"154","NEA","Misiones",4,0,1233177,"Total","4159",2208
+"155","PATAGONIA","Neuquen",92,4,646784,"Generales","1398",2482
+"156","PATAGONIA","Neuquen",92,4,646784,"Pediátricas","242",2482
+"157","PATAGONIA","Neuquen",92,4,646784,"Maternidad","230",2482
+"158","PATAGONIA","Neuquen",92,4,646784,"C.Especiales","306",2482
+"159","PATAGONIA","Neuquen",92,4,646784,"UTI adultos","94",2482
+"160","PATAGONIA","Neuquen",92,4,646784,"UTI pediátricas","16",2482
+"161","PATAGONIA","Neuquen",92,4,646784,"Neonatología","121",2482
+"162","PATAGONIA","Neuquen",92,4,646784,"Htal día","43",2482
+"163","PATAGONIA","Neuquen",92,4,646784,"Int. Prolong.","597",2482
+"164","PATAGONIA","Neuquen",92,4,646784,"No discriminadas","92",2482
+"165","PATAGONIA","Neuquen",92,4,646784,"Total","3139",2482
+"166","PATAGONIA","Río Negro",105,3,728403,"Generales","1177",2513
+"167","PATAGONIA","Río Negro",105,3,728403,"Pediátricas","207",2513
+"168","PATAGONIA","Río Negro",105,3,728403,"Maternidad","201",2513
+"169","PATAGONIA","Río Negro",105,3,728403,"C.Especiales","148",2513
+"170","PATAGONIA","Río Negro",105,3,728403,"UTI adultos","127",2513
+"171","PATAGONIA","Río Negro",105,3,728403,"UTI pediátricas","24",2513
+"172","PATAGONIA","Río Negro",105,3,728403,"Neonatología","133",2513
+"173","PATAGONIA","Río Negro",105,3,728403,"Htal día","60",2513
+"174","PATAGONIA","Río Negro",105,3,728403,"Int. Prolong.","578",2513
+"175","PATAGONIA","Río Negro",105,3,728403,"No discriminadas","190",2513
+"176","PATAGONIA","Río Negro",105,3,728403,"Total","2845",2513
+"177","NOA","Salta",4,0,1388532,"Generales","2404",3015
+"178","NOA","Salta",4,0,1388532,"Pediátricas","509",3015
+"179","NOA","Salta",4,0,1388532,"Maternidad","437",3015
+"180","NOA","Salta",4,0,1388532,"C.Especiales","130",3015
+"181","NOA","Salta",4,0,1388532,"UTI adultos","271",3015
+"182","NOA","Salta",4,0,1388532,"UTI pediátricas","54",3015
+"183","NOA","Salta",4,0,1388532,"Neonatología","218",3015
+"184","NOA","Salta",4,0,1388532,"Htal día","174",3015
+"185","NOA","Salta",4,0,1388532,"Int. Prolong.","316",3015
+"186","NOA","Salta",4,0,1388532,"No discriminadas","60",3015
+"187","NOA","Salta",4,0,1388532,"Total","4573",3015
+"188","CUYO","San Juan",2,0,764464,"Generales","913",2174
+"189","CUYO","San Juan",2,0,764464,"Pediátricas","224",2174
+"190","CUYO","San Juan",2,0,764464,"Maternidad","183",2174
+"191","CUYO","San Juan",2,0,764464,"C.Especiales","75",2174
+"192","CUYO","San Juan",2,0,764464,"UTI adultos","153",2174
+"193","CUYO","San Juan",2,0,764464,"UTI pediátricas","28",2174
+"194","CUYO","San Juan",2,0,764464,"Neonatología","108",2174
+"195","CUYO","San Juan",2,0,764464,"Htal día","203",2174
+"196","CUYO","San Juan",2,0,764464,"Int. Prolong.","1156",2174
+"197","CUYO","San Juan",2,0,764464,"No discriminadas","25",2174
+"198","CUYO","San Juan",2,0,764464,"Total","3068",2174
+"199","CUYO","San Luis",10,0,495629,"Generales","873",1324
+"200","CUYO","San Luis",10,0,495629,"Pediátricas","144",1324
+"201","CUYO","San Luis",10,0,495629,"Maternidad","129",1324
+"202","CUYO","San Luis",10,0,495629,"C.Especiales","24",1324
+"203","CUYO","San Luis",10,0,495629,"UTI adultos","84",1324
+"204","CUYO","San Luis",10,0,495629,"UTI pediátricas","25",1324
+"205","CUYO","San Luis",10,0,495629,"Neonatología","81",1324
+"206","CUYO","San Luis",10,0,495629,"Htal día","29",1324
+"207","CUYO","San Luis",10,0,495629,"Int. Prolong.","18",1324
+"208","CUYO","San Luis",10,0,495629,"No discriminadas","14",1324
+"209","CUYO","San Luis",10,0,495629,"Total","1421",1324
+"210","PATAGONIA","Santa Cruz",40,0,347593,"Generales","615",1005
+"211","PATAGONIA","Santa Cruz",40,0,347593,"Pediátricas","146",1005
+"212","PATAGONIA","Santa Cruz",40,0,347593,"Maternidad","151",1005
+"213","PATAGONIA","Santa Cruz",40,0,347593,"C.Especiales","21",1005
+"214","PATAGONIA","Santa Cruz",40,0,347593,"UTI adultos","55",1005
+"215","PATAGONIA","Santa Cruz",40,0,347593,"UTI pediátricas","20",1005
+"216","PATAGONIA","Santa Cruz",40,0,347593,"Neonatología","51",1005
+"217","PATAGONIA","Santa Cruz",40,0,347593,"Htal día","31",1005
+"218","PATAGONIA","Santa Cruz",40,0,347593,"Int. Prolong.","93",1005
+"219","PATAGONIA","Santa Cruz",40,0,347593,"No discriminadas","4",1005
+"220","PATAGONIA","Santa Cruz",40,0,347593,"Total","1187",1005
+"221","PAMPEANA","Santa Fe",208,2,3481514,"Generales","7068",15622
+"222","PAMPEANA","Santa Fe",208,2,3481514,"Pediátricas","572",15622
+"223","PAMPEANA","Santa Fe",208,2,3481514,"Maternidad","503",15622
+"224","PAMPEANA","Santa Fe",208,2,3481514,"C.Especiales","254",15622
+"225","PAMPEANA","Santa Fe",208,2,3481514,"UTI adultos","585",15622
+"226","PAMPEANA","Santa Fe",208,2,3481514,"UTI pediátricas","71",15622
+"227","PAMPEANA","Santa Fe",208,2,3481514,"Neonatología","455",15622
+"228","PAMPEANA","Santa Fe",208,2,3481514,"Htal día","100",15622
+"229","PAMPEANA","Santa Fe",208,2,3481514,"Int. Prolong.","8927",15622
+"230","PAMPEANA","Santa Fe",208,2,3481514,"No discriminadas","25",15622
+"231","PAMPEANA","Santa Fe",208,2,3481514,"Total","18560",15622
+"232","NOA","Santiago del Estero",12,0,958251,"Generales","2010",1708
+"233","NOA","Santiago del Estero",12,0,958251,"Pediátricas","288",1708
+"234","NOA","Santiago del Estero",12,0,958251,"Maternidad","357",1708
+"235","NOA","Santiago del Estero",12,0,958251,"C.Especiales","141",1708
+"236","NOA","Santiago del Estero",12,0,958251,"UTI adultos","173",1708
+"237","NOA","Santiago del Estero",12,0,958251,"UTI pediátricas","47",1708
+"238","NOA","Santiago del Estero",12,0,958251,"Neonatología","154",1708
+"239","NOA","Santiago del Estero",12,0,958251,"Htal día","81",1708
+"240","NOA","Santiago del Estero",12,0,958251,"Int. Prolong.","7",1708
+"241","NOA","Santiago del Estero",12,0,958251,"No discriminadas","148",1708
+"242","NOA","Santiago del Estero",12,0,958251,"Total","3406",1708
+"243","PATAGONIA","Tierra del Fuego",111,0,164944,"Generales","182",703
+"244","PATAGONIA","Tierra del Fuego",111,0,164944,"Pediátricas","31",703
+"245","PATAGONIA","Tierra del Fuego",111,0,164944,"Maternidad","49",703
+"246","PATAGONIA","Tierra del Fuego",111,0,164944,"C.Especiales","2",703
+"247","PATAGONIA","Tierra del Fuego",111,0,164944,"UTI adultos","21",703
+"248","PATAGONIA","Tierra del Fuego",111,0,164944,"UTI pediátricas","5",703
+"249","PATAGONIA","Tierra del Fuego",111,0,164944,"Neonatología","22",703
+"250","PATAGONIA","Tierra del Fuego",111,0,164944,"Htal día","14",703
+"251","PATAGONIA","Tierra del Fuego",111,0,164944,"Int. Prolong.","19",703
+"252","PATAGONIA","Tierra del Fuego",111,0,164944,"No discriminadas","15",703
+"253","PATAGONIA","Tierra del Fuego",111,0,164944,"Total","360",703
+"254","ARGENTINA","TOTAL",2587,111,43899373,"Generales","92206",174094
+"255","ARGENTINA","TOTAL",2587,111,43899373,"Pediátricas","10243",174094
+"256","ARGENTINA","TOTAL",2587,111,43899373,"Maternidad","8354",174094
+"257","ARGENTINA","TOTAL",2587,111,43899373,"C.Especiales","5221",174094
+"258","ARGENTINA","TOTAL",2587,111,43899373,"UTI adultos","8587",174094
+"259","ARGENTINA","TOTAL",2587,111,43899373,"UTI pediátricas","1907",174094
+"260","ARGENTINA","TOTAL",2587,111,43899373,"Neonatología","6841",174094
+"261","ARGENTINA","TOTAL",2587,111,43899373,"Htal día","2604",174094
+"262","ARGENTINA","TOTAL",2587,111,43899373,"Int. Prolong.","87229",174094
+"263","ARGENTINA","TOTAL",2587,111,43899373,"No discriminadas","2153",174094
+"264","ARGENTINA","TOTAL",2587,111,43899373,"Total","225345",174094
+"265","NOA","Tucumán",30,4,1654388,"Generales","3005",5504
+"266","NOA","Tucumán",30,4,1654388,"Pediátricas","390",5504
+"267","NOA","Tucumán",30,4,1654388,"Maternidad","272",5504
+"268","NOA","Tucumán",30,4,1654388,"C.Especiales","341",5504
+"269","NOA","Tucumán",30,4,1654388,"UTI adultos","388",5504
+"270","NOA","Tucumán",30,4,1654388,"UTI pediátricas","75",5504
+"271","NOA","Tucumán",30,4,1654388,"Neonatología","331",5504
+"272","NOA","Tucumán",30,4,1654388,"Htal día","212",5504
+"273","NOA","Tucumán",30,4,1654388,"Int. Prolong.","1307",5504
+"274","NOA","Tucumán",30,4,1654388,"No discriminadas","-",5504
+"275","NOA","Tucumán",30,4,1654388,"Total","6321",5504
